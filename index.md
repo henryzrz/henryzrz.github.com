@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Henry Zhang's Index
+tagline: From a programmer to a computer scientist
 ---
 {% include JB/setup %}
 
